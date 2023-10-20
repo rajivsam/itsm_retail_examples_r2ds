@@ -11,3 +11,5 @@ nanopub
 rdflib
 pandera
 scikit-learn
+dtale
+klib
