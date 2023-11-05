@@ -13,3 +13,7 @@ pandera
 scikit-learn
 dtale
 klib
+confluent-kafka
+jsonschema
+requests
+datasketches

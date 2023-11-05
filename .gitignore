@@ -30,10 +30,6 @@ MANIFEST
 #DS_Store
 *.DS_Store
 **/*.DS_Store
-#box_integration
-box_integration/
-#planning
-planning/
 # log files
 **/*.log
 # all zip files
@@ -42,5 +38,8 @@ planning/
 **/notebooks/ITSM/pandas*
 **/notebooks/Retail/pandas*
 **/notebooks/Retail/experiment*
-# ignore vs-code code-workspace files
-Rinse_and_Repeat.code-workspace
+## ignore workspace file
+retail_ITSM.code-workspace/**
+## ignore docker data and log directories
+docker/data/**
+docker/logs/**

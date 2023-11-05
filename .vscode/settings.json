@@ -1,0 +1,5 @@
+{
+    "python.createEnvironment.contentButton": "show",
+    "python.terminal.activateEnvironment": true,
+    "python.createEnvironment.trigger": "prompt"
+}

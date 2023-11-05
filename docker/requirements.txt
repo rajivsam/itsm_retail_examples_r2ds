@@ -1,0 +1,4 @@
+kafka-python
+confluent-kafka
+jupyter
+ipython
