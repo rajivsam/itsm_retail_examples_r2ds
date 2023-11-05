@@ -42,5 +42,6 @@ MANIFEST
 retail_ITSM.code-workspace
 ## ignore docker data and log directories
 docker/broker/**
+docker/zoo/**
 docker/data/**
 docker/logs/**
