@@ -39,7 +39,8 @@ MANIFEST
 **/notebooks/Retail/pandas*
 **/notebooks/Retail/experiment*
 ## ignore workspace file
-retail_ITSM.code-workspace/**
+retail_ITSM.code-workspace
 ## ignore docker data and log directories
+docker/broker/**
 docker/data/**
 docker/logs/**
