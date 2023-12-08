@@ -17,3 +17,6 @@ confluent-kafka
 jsonschema
 requests
 datasketches
+streamlit
+py-AutoClean
+ai-einblick-prompt
